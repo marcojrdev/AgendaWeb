@@ -1,2 +1,2 @@
 # AgendaWeb
-trabalho da faculdade de web, agenda simples com bootstrap 
+Agenda simples com bootstrap, primeiro projeto da materia de web 
